@@ -1,0 +1,23 @@
+{
+    "path": "dataset-6/real_test_v2/img/2.png",
+    "predicted_nodeborder": "0.0",
+    "gt_nodeborder": "0",
+    "predicted_linkwidthdiffer": "0.0",
+    "gt_linkwidthdiffer": "0",
+    "predicted_linkcurved": "0.0",
+    "gt_linkcurved": "0",
+    "predicted_noderadiusdiffer": "0.0",
+    "gt_noderadiusdiffer": "0",
+    "predicted_minlinkwidth": "3.838974953396246e-05",
+    "gt_minlinkwidth": "0.0667",
+    "predicted_maxlinkwidth": "4.743298107263462e-14",
+    "gt_maxlinkwidth": "0.0667",
+    "predicted_minnoderadius": "0.0004070582508575171",
+    "gt_minnoderadius": "0.08",
+    "predicted_maxnoderadius": "5.2112418416072614e-06",
+    "gt_maxnoderadius": "0.08",
+    "predicted_labelstatus": "0.0",
+    "gt_labelstatus": "0",
+    "predicted_forcecoefficient": "4.483263546717353e-05",
+    "gt_forcecoefficient": "0.08"
+}
